@@ -1,0 +1,10 @@
+2025-Jul-21-12:41:55 : Extracting data from https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29
+2025-Jul-21-12:42:01 : Transforming GDP from Millions to Billions (USD)
+2025-Jul-21-12:42:01 : Loading data to csv file 'GDP_USD_Billions'
+2025-Jul-21-12:42:01 : Loading data to database 'Country_GDP'
+2025-Jul-21-12:42:01 : Running query on newly created database and table for verification
+2025-Jul-21-12:43:10 : Extracting data from https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29
+2025-Jul-21-12:43:11 : Transforming GDP from Millions to Billions (USD)
+2025-Jul-21-12:43:11 : Loading data to csv file 'GDP_USD_Billions'
+2025-Jul-21-12:43:11 : Loading data to database 'Country_GDP'
+2025-Jul-21-12:43:11 : Running query on newly created database and table for verification
