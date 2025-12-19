@@ -1,5 +1,5 @@
 # Country GDP ETL Pipeline
-_Technologies Used: Python,Beautiful Soup, requests, pandas, SQLite_  
+_Technologies Used: Python, Beautiful Soup, requests, pandas, SQLite_  
 
 ## Summary
 This project implements an ETL pipeline to collect, clean, and store country GDP data. The pipeline scrapes publicly available GDP data from Wikipedia, processes and transform the values, and loads the cleaned dataset into both a CSV file and a relational database for further analysis.
