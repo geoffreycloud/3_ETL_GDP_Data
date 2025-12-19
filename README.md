@@ -11,7 +11,7 @@ The primary focus of this project is to practice web scraping techniques and ETL
 ## Project Structure
 
 - [etl_project_gdp.py](https://github.com/geoffreycloud/3_ETL_GDP_Data/blob/main/etl_project_gdp.py) – Contains all extract, transform, load, and logging logic
-- [GDP_USD_Billions.csv](https://github.com/geoffreycloud/3_ETL_GDP_Data/blob/main/etl_project_gdp.py) – Stores the final cleaned GDP dataset
+- [GDP_USD_Billions.csv](https://github.com/geoffreycloud/3_ETL_GDP_Data/blob/main/GDP_USD_Billions.csv) – Stores the final cleaned GDP dataset
 - [Country_GDP.db](https://github.com/geoffreycloud/3_ETL_GDP_Data/blob/main/Country_GDP.db) – Stores transformed data for querying
 - [etl_project_log.txt](https://github.com/geoffreycloud/3_ETL_GDP_Data/blob/main/etl_project_log.txt) – Records execution progress and pipeline stages
 
